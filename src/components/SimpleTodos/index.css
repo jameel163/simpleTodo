@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.total-bg {
+  padding: 30px;
+  background-color: #ffc2a0;
+  height: 100vh;
+  background-size: cover;
+}
+.container {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.unorder {
+  list-style: none;
+}
+.heading {
+  color: #ff8542;
+  font-family: roboto;
+}

@@ -1,0 +1,16 @@
+.list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  padding: 0px 20px 0px 0px;
+}
+.butt {
+  border-radius: 10px;
+  width: 100px;
+  height: 36px;
+  background-color: #ffffff;
+  color: #ff0b37;
+  border-color: #ff0b37;
+}
